@@ -72,8 +72,6 @@ On top of this, admins may remove any offending messages, images, contributions,
 
 Admins reserve full rights to skip any of these steps, at their discretion, if the violation is considered to be a serious and/or immediate threat to the health and well-being of members of the community. These include any threats, serious physical or verbal attacks, and other such behavior that would be completely unacceptable in any social setting that puts our members at risk.
 
-Members expelled from events or venues with any sort of paid attendance will not be refunded.
-
 ### Who Watches the Watchers?
 
 Admins and other leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community's leadership. These may include anything from removal from the admin team to a permanent ban from the community.
@@ -100,7 +98,7 @@ Sometimes, though, you need to get admins involved. Admins will do their best to
 
 > Patt: "I'm not attacking anyone, are you deaf?"
 
-> Alex: "/admin hey uh. Can someone look at #javascript? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
+> Alex: "<messages an admin> hey uh. Can someone look at #javascript? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
 
 > MxAdmin1: <joins #javascript> "Hey Patt, admin here. Could you tone it down? This sort of attack is really not okay in this space."
 
