@@ -1,4 +1,4 @@
-The following people are Admins and btvdev slack. They can help resolve Code of Conduct issues or other slack related issues: 
+The following people are Admins on btvdev slack. They can help resolve Code of Conduct issues or other slack related issues: 
 
 ```
 beerlington
