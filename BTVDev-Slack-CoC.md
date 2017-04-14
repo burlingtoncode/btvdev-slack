@@ -37,7 +37,7 @@ Examples of unacceptable behavior by participants include:
   * Publishing or telling others that a member belongs to a particular identity channel without asking their consent first.
   * Publishing of non-harassing private communication.
   * Any of the above even when [presented as "ironic" or "joking"](https://en.wikipedia.org/wiki/Hipster_racism).
-  * Any attempt to present "reverse-ism" versions of the above as violations. Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia".
+  * Any attempt to present [reverse descrimination](https://en.wikipedia.org/wiki/Reverse_discrimination) versions of the above as violations for the purpose of derailing discussions of other violations. For example, [reverse racism](https://en.wikipedia.org/wiki/Reverse_racism) or [reverse sexism](http://geekfeminism.wikia.com/wiki/Reverse_sexism).
   * Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
   * [Feigning or exaggerating surprise](https://www.recurse.com/manual#no-feigned-surprise) when someone admits to not knowing something.
   * "[Well-actuallies](https://www.recurse.com/manual#no-well-actuallys)"
