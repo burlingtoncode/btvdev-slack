@@ -53,6 +53,10 @@ Depending on the violation, the admins may decide that violations of this code o
 
 Once the admins get involved, they will follow a documented series of steps and do their best to preserve the well-being of BTVDev members. 
 
+### Slackbot
+
+To help us keep in line with the values stated in our code of conduct, the admins have added some commonly used custom slack responses that will help remind our community to be kind to one another, and to keep unfriendly language at bay. If you see Slackbot responding to something you said, we hope you will consider editing your message to be more inclusive.
+
 ### Contacting Admins
 
 You may get in touch with the BTVDev admin team by directly messaging them in private. Feel free to message multiple admins in case you do not get a response from someone.
