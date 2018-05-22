@@ -61,7 +61,7 @@ To help us keep in line with the values stated in our code of conduct, the admin
 
 You may get in touch with the BTVDev admin team by directly messaging them in private. Feel free to message multiple admins in case you do not get a response from someone.
 
-The admins are (alphabetical order): @bradley, @jhoguet, @joshuaburke, @maureen.mcelaney, @payton
+The admins are (alphabetical order): @bradley, @joshuaburke, @maureen.mcelaney, @payton
 
 ### Further Enforcement
 
