@@ -57,6 +57,8 @@ Once the admins get involved, they will follow a documented series of steps and 
 
 To help us keep in line with the values stated in our code of conduct, the admins have added some commonly used custom slack responses that will help remind our community to be kind to one another, and to keep unfriendly language at bay. If you see Slackbot responding to something you said, we hope you will consider editing your message to be more inclusive.
 
+You can review the [full list](https://github.com/burlingtoncode/btvdev-slack/blob/master/BTVDev-Slack-CoC-SlackbotResponses.md) of slackbot phrases and responses.
+
 ### Contacting Admins
 
 You may get in touch with the BTVDev admin team by directly messaging them in private. Feel free to message multiple admins in case you do not get a response from someone.
