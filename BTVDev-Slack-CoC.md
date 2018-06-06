@@ -82,6 +82,10 @@ Admins reserve full rights to skip any of these steps, at their discretion, if t
 
 Admins and other leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the community's leadership. These may include anything from removal from the admin team to a permanent ban from the community.
 
+### Administrative Decisions
+
+Whenever a significant administrative decision needs to be made, all admins will be pinged by whichever admin has proposed the action. The action will not be taken until all available admins (at least three) have offered their opinions. This requirement may be skipped in an emergency, as defined by any admin, but in that case a discussion must still take place afterwards, potentially reversing the decision. Any disagreement which cannot be resolved by discussion between admins regarding a decision will lead to a vote, with a simple majority of available admins (at least three) being required to take the proposed action.
+
 ### Enforcement Examples
 
 #### The Best Case
